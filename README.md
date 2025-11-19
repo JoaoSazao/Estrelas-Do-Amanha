@@ -24,6 +24,6 @@
 
 ###
 
-<p align="left">Clique no link para acessar o projeto: <a href="https://estrelas-do-amanha-sigma.vercel.app" _blank>LINK DO PROJETO</a></p>
+<p align="left">Clique no link para acessar o projeto: <a href="https://estrelas-do-amanha-sigma.vercel.app" target="_blank">LINK DO PROJETO</a></p>
 
 ###
