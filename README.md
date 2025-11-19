@@ -23,3 +23,7 @@
 <p align="left">Nesse projeto iremos desenvolver um Formulário de matrícula para uma escola de educação infantil. Vamos trabalhar com diversos tipos de input além de rever e treinar bastante o nosso CSS</p>
 
 ###
+
+<p align="left">Clique no link para acessar o projeto: <a href="https://estrelas-do-amanha-sigma.vercel.app">LINK DO PROJETO</a></p>
+
+###
